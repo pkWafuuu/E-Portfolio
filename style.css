@@ -408,6 +408,15 @@ footer {
 
     nav {
         height: 68px;
+        margin-bottom: 20px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    .about-me__info--para {
+        font-size: 18px;
     }
 
     .about-me__img {
@@ -423,8 +432,4 @@ footer {
         flex-wrap: wrap;
     }
 
-    .row {
-        width: 100%;
-        max-width: 500px;
-    }
 }
